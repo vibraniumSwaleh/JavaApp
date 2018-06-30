@@ -1,0 +1,9 @@
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+
+    <string name="app_name">Just Java</string>
+    <string name="hint_name">Name</string>
+    <!--Text heading for Toppings [char limit 20] -->
+    <string name="toppings">Toppings</string>
+    <string name="thank_you">Thank you!</string>
+    <string name="order_summary_name">Name: <xliff:g id="name" example="Swaleh">%s</xliff:g></string>
+</resources>
